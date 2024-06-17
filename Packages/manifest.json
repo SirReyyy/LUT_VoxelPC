@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "com.peartreegames.voxpointcloudtextureimporter": "file:C:/Users/Rey Jr/Downloads/Temporary/vox-point-cloud-texture-importer-main",
     "com.unity.collab-proxy": "2.3.1",
     "com.unity.feature.development": "1.0.1",
     "com.unity.render-pipelines.high-definition": "14.0.9",
